@@ -14,7 +14,6 @@ class SplashPage extends StatelessWidget {
           child: Image.asset(AppImages.logo),
         ),
       ),
-      
     );
   }
 }
